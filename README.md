@@ -26,3 +26,6 @@ Tailwind,
 react-router-dom,
 Jest (for testing)
 
+# Screenshots
+![s1](https://github.com/Burhan-52/Seller-App/assets/93176371/bf9318d8-78f2-4460-86c5-75031dd76092)
+![s2](https://github.com/Burhan-52/Seller-App/assets/93176371/de47267a-9438-428b-957b-92a7b8da26c7)
