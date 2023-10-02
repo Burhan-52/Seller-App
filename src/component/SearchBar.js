@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { carData } from '../mockData'
-import searchIcon from '../asset/search-icon.png'
+import searchIcon from '../assets/search-icon.png'
 import { handleSearch } from '../helper'
 
 const SearchBar = ({ setAllCar }) => {

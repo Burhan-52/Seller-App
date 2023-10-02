@@ -19,7 +19,7 @@ const CarContainer = () => {
             />
 
             <div className=' flex justify-center flex-wrap px-10 py-2 mx-10'>
-                {displayedCars.length < 0 ? (
+                {displayedCars.length === 0 ? (
                     <div className='my-5'>{MESSAGE}</div>
                 ) : (
                     displayedCars.map((car) => (
