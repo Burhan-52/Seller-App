@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import leftArrow from '../assesst/left-arrow.png'
-import rightArrow from '../assesst/right-arrow.png'
+import leftArrow from '../asset/left-arrow.png'
+import rightArrow from '../asset/right-arrow.png'
 
 const Pagination = ({ currentPage, totalPages }) => {
 

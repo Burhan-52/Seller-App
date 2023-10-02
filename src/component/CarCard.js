@@ -1,9 +1,9 @@
 import React from 'react'
-import peoplecount from '../assesst/people.png'
-import cartype from '../assesst/model.png'
-import mileage from '../assesst/mileage.png'
-import fuel from '../assesst/transmission.png'
-import favourite from '../assesst/favourite.png'
+import peoplecount from '../asset/people.png'
+import cartype from '../asset/model.png'
+import mileage from '../asset/mileage.png'
+import fuel from '../asset/transmission.png'
+import favourite from '../asset/favourite.png'
 import { MONTH, RENT } from '../config'
 
 const CarCard = ({ carData }) => {
